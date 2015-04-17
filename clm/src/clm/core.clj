@@ -23,5 +23,4 @@
   [lm sentence]
   (.getLogProb lm sentence))
 
-(defn logprob
 
